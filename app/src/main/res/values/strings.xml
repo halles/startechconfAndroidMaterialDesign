@@ -1,3 +1,28 @@
 <resources>
-    <string name="app_name">StcWorkShop</string>
+    <string name="app_name">StarTechConf</string>
+    <string name="expositors_act">Expositores</string>
+    <string-array
+        name="expositors_names">
+        <item>Andrés Barreto</item>
+        <item>Christian Legnitto</item>
+        <item>Raffi Krikorian</item>
+        <item>Jafar Husain</item>
+        <item>José Miguel Piquer</item>
+        <item>Jane Austin</item>
+        <item>Mary Poppendieck</item>
+        <item>Tom Poppendieck</item>
+        <item>Jano Gonzalez</item>
+    </string-array>
+    <string-array name="expositors_desc">
+        <item>Serial Founder: GrooveShark, PulsoSocial, Onswipe. Seed Investor: Socialatom.</item>
+        <item>Mobile Release Engineering en Facebook. Previamente en Mozilla y Apple.</item>
+        <item>Engineering Lead en Uber Advanced Technologies Center. Previamente Engineering VP en Twitter.</item>
+        <item>Technical Lead en Netflix. Miembro del comité de estándares Javascript. Previamente en Microsoft.</item>
+        <item>Profesor U. Chile. Fundador NIC.cl. Presidente del directorio en E-voting.cl. Envió el primer e-mail en Chile.</item>
+        <item>Head of UX en The Telegraph, UK. Fellow of Royal Society of Arts.</item>
+        <item>Agile Coach, Autora de "Lean Software Development". Previamente en 3M.</item>
+        <item>Agile Coach, Autor de "Lean Software Development"</item>
+        <item>Backend Engineer en SoundCloud.</item>
+    </string-array>
+    <string name="title_activity_expositor_detail">ExpositorDetailActivity</string>
 </resources>
