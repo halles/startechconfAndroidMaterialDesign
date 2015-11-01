@@ -17,6 +17,11 @@
         </activity>
         <activity android:name=".MainActivity" >
         </activity>
+        <activity
+            android:name=".ExpositorDetailActivity"
+            android:parentActivityName=".MainActivity">
+
+        </activity>
     </application>
 
 </manifest>
