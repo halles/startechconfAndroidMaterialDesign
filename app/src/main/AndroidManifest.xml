@@ -19,8 +19,8 @@
         </activity>
         <activity
             android:name=".ExpositorDetailActivity"
-            android:parentActivityName=".MainActivity">
-
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
         </activity>
     </application>
 
